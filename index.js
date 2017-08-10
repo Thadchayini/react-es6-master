@@ -9,6 +9,6 @@ import { render } from 'react-dom'
 import CommentBox from './components/comment-box'
 
 render(
-  <CommentBox age={20} />,
+  <CommentBox age={22} />,
   document.getElementById('content')
 )
